@@ -1,9 +1,9 @@
-#Emberjs Demo(Emberj演示项目)
-本项目处于学习目的而创建，参照于
+#EmberJs Demo(EmberJs演示项目)
+本项目出于学习目的而创建，参照于(This project created only for learning,refer to)
 
-- [30天学会30种技能中的emberjs入门指南(译文)](http://segmentfault.com/a/1190000000365519)
+- [30天学会30种技能中的emberJs入门指南(译文)](http://segmentfault.com/a/1190000000365519)
 - [learning-30-technologies-in-30-days-day19(原文)](https://www.openshift.com/blogs/day-19-ember-the-missing-emberjs-tutorial)
-- [emberjs 基础demo](https://github.com/emberjs/starter-kit)
+- [emberJs 基础demo](https://github.com/emberjs/starter-kit)
 
 ##工具
 要使用本项目需要使用nodeJs/npm/grunt
